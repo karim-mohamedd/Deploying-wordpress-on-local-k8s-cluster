@@ -5,6 +5,7 @@
 ## ( Deploying WordPress with MySQL on a Local Kubernetes Cluster )
 
 ---
+<img width="2544" height="2128" alt="diagram-1771728150913" src="https://github.com/user-attachments/assets/474dd131-43f0-408a-9e67-1da103bd1c29" />
 
 ##  Project Overview
 
